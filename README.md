@@ -1,16 +1,15 @@
-### Hi there 👋
+## I'm Bayanda Mpakathi
 
-<!--
-**mpakathibayanda/mpakathibayanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Bsc in physics at wsu and self-training app developing using flutter
 
-Here are some ideas to get you started:
+**Programming language**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Futter❤️👌👌
+* Java
+* C++😏😏
+* Python🔥🔥
+* Dart😍😍🔥🔥
+* JavaScript❤️
+* Html and Css❤️
+
+- ### I'm  interested in mobile app development and I love😍😍 math and programming🤩😍😍 -
