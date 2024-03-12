@@ -27,15 +27,13 @@ I'm a passionate Flutter developer with over 5 years of experience in mobile app
 
 Here are a few projects I've worked on:
 
-- [Project Name](link): Brief description of the project.
-- [Project Name](link): Brief description of the project.
-- [Project Name](link): Brief description of the project.
+- [PROFILE SITE](https://mpakathibayanda.live/): Visit my profiling website for more
 
 ## Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **GitHub:** [Your GitHub Profile](link)
-- **Email:** [Your Email Address](mailto:youremail@example.com)
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/bayanda-mphakathi-057567190)
+- **GitHub:** [My GitHub Profile](https://github.com/mpakathibayanda/mpakathibayanda)
+- **Email:** [My Email Address](mailto:mpakathibayanda@gmail.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
 
