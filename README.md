@@ -1,6 +1,6 @@
 ## I'm Bayanda Mpakathi
 
-I did Bsc in physics at wsu and self-training app developing using flutter
+I did Bsc in physics at wsu and self-taught app developing using Flutter.
 
 **Programming language**
 
