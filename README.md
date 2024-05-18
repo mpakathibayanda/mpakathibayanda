@@ -19,7 +19,7 @@ I'm a passionate Flutter developer with over 5 years of experience in mobile app
 - **Programming Languages:** Dart
 - **Frameworks/Libraries:** Flutter
 - **State Management:** Provider, Riverpod, BLoC, GetX
-- **Backend Integration:** Firebase, Appwrite
+- **Backend Integration:** Firebase, Appwrite, Rest Apis
 - **Databases:** Hive, SQLite
 - **Other:** Git, Agile Development
 
