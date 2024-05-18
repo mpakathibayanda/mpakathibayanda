@@ -27,7 +27,7 @@ I'm a passionate Flutter developer with over 5 years of experience in mobile app
 
 Here are a few projects I've worked on:
 
-- [**PROJECTS SITE**](https://mpakathibayanda.live/)
+- [**PROJECTS SITE**](https://bold.pro/my/bayandampakathi)
 
 ## Let's Connect
 
