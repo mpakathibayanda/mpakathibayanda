@@ -2,7 +2,7 @@
 
 I did Bsc in physics at wsu and self-taught app developing using Flutter.
 
-**Programming language**
+**Technologies I worked with**
 
 * Futter❤️👌👌
 * Java
