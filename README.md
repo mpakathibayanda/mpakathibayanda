@@ -12,7 +12,7 @@ I did Bsc in physics at wsu and self-taught app developing using Flutter.
 * JavaScript❤️
 * Html and Css❤️
 
-I'm a passionate Flutter developer with over 5 years of experience in mobile app development. My expertise lies in state management using Provider, Riverpod, BLoC, and GetX, and I have extensive experience integrating Rest Apis, Firebase, Appwrite, Hive, and SQLite as backend solutions. With more than 5 published apps under my belt, I am committed to delivering high-quality, efficient, and user-friendly mobile applications.
+I'm a Flutter developer with over 5 years of experience in mobile app development. I specialize in state management with tools like Provider, Riverpod, BLoC, and GetX. I also have experience integrating Rest APIs, Firebase, Appwrite, Hive, and SQLite. I've published more than 5 apps and focus on creating high-quality, user-friendly applications.
 
 ## Skills
 
@@ -23,15 +23,8 @@ I'm a passionate Flutter developer with over 5 years of experience in mobile app
 - **Databases:** Hive, SQLite
 - **Other:** Git, Agile Development
 
-## Projects
-
-Here are a few projects I've worked on:
-
-- [**PROJECTS SITE**](https://mpakathibayanda-cefee.web.app/)
-
 ## Let's Connect
 
-- [**LinkedIn**](www.linkedin.com/in/bayanda-mphakathi-057567190)
 - [**GitHub**](https://github.com/mpakathibayanda/mpakathibayanda)
 - [**Email**](mailto:mpakathibayanda@gmail.com)
 
