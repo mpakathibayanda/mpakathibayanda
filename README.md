@@ -1,33 +1,38 @@
-## I'm Bayanda Mpakathi
+# Hi, I'm Bayanda Mpakathi 👋
 
-I did Bsc in physics at wsu and self-taught app developing using Flutter.
+I'm a mobile app developer with a background in Physics from WSU. I build apps that solve real problems.
 
-**Technologies I worked with**
+## What I Do
 
-* Futter❤️👌👌
-* Java
-* C++😏😏
-* Python🔥🔥
-* Dart😍😍🔥🔥
-* JavaScript❤️
-* Html and Css❤️
+- 🚀 Founder of [Dev4punters](https://dev4punters.com) (2020-present)
+- 📱 Develop and maintain betting community apps on Google Play Store
+- 💻 Create user-friendly mobile solutions
 
-I'm a Flutter developer with over 5 years of experience in mobile app development. I specialize in state management with tools like Provider, Riverpod, BLoC, and GetX. I also have experience integrating Rest APIs, Firebase, Appwrite, Hive, and SQLite. I've published more than 5 apps and focus on creating high-quality, user-friendly applications.
+## Tech Stack
 
-## Skills
-
-- **Programming Languages:** Dart
-- **Frameworks/Libraries:** Flutter
+- **Main:** Flutter & Dart
+- **Also Work With:** Python, JavaScript, Java, C++
+- **Frontend:** HTML, CSS
 - **State Management:** Provider, Riverpod, BLoC, GetX
-- **Backend Integration:** Firebase, Appwrite, Rest Apis
-- **Databases:** Hive, SQLite
-- **Other:** Git, Agile Development
+- **Backend:** Firebase, Appwrite, REST APIs
+- **Storage:** Hive, SQLite
+
+## Experience
+
+- **Dev4punters (2020-present)**
+  - Founded and lead mobile app development
+  - Built and published multiple apps for the betting community
+  - Maintain company website and tech infrastructure
+
+- **Flutter Development (5+ years)**
+  - Published 5+ mobile applications
+  - Expert in state management and API integration
+  - Focus on clean, maintainable code
 
 ## Let's Connect
 
-- [**GitHub**](https://github.com/mpakathibayanda/mpakathibayanda)
-- [**Email**](mailto:mpakathibayanda@gmail.com)
+- 📧 [Email](mailto:mpakathibayanda@gmail.com)
+- 💼 [GitHub](https://github.com/mpakathibayanda)
+- 🌐 [Dev4punters](https://dev4punters.com)
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
-
-
+Feel free to reach out for collaborations or just to say hi!
